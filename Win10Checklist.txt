@@ -10,7 +10,7 @@ Enter text answer into specified area on the txt file on the desktop.
 		-24 passwords remember
 		-30-90 days
 		-15 days
-		-8 characters
+		-10 characters
 		-enabled
 		-disabled
 	c. Use "Control Panel" to update account passwords:
